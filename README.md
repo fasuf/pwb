@@ -1,3 +1,4 @@
+<pre>
 penjelasan taq 10 html
 <h1> untuk judul dan menjadi besar </h1>
 <table> untuk membuat table</table>
@@ -9,3 +10,4 @@ penjelasan taq 10 html
 <li>isi untuk list</li>
 <img> untuk naro path gambar
 <a>untuk hyper link</a>
+  </pre>
