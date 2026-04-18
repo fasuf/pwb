@@ -1,13 +1,11 @@
-<pre>
-penjelasan taq 10 html
-<h1> untuk judul dan menjadi besar </h1>
-<table> untuk membuat table</table>
-<tr> untuk membuat baris </tr>
-<th> untuk judul table </th>
-<td> untuk isinya </td>
-<ol> untuk membuat list dengan angka </ol>
-<ul>untuk membuat list dengan bentuk</ul>
-<li>isi untuk list</li>
-<img> untuk naro path gambar
-<a>untuk hyper link</a>
-  </pre>
+- penjelasan taq 10 html
++ 1. **h1** : Untuk membuat judul menjadi besar.
++ 2. **table** : Untuk membuat struktur tabel.
++ 3. **tr** : Untuk membuat baris dalam tabel.
++ 4. **th** : Untuk membuat judul kolom (header) tabel.
++ 5. **td** : Untuk mengisi data ke dalam sel tabel.
++ 6. **ol** : Membuat daftar urutan menggunakan angka.
++ 7. **ul** : Membuat daftar poin (bullet points).
++ 8. **li** : Item atau isi dari daftar (list).
++ 9. **img** : Memasukkan alamat/path gambar.
++ 10. **a** : Membuat tautan (hyperlink).
